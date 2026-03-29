@@ -1,0 +1,5 @@
+src_pc: "./data/room1_20250918_r0_v0_src.ply"
+tgt_pc: "./data/room1_20250918_r0_v0_tgt.ply"
+visualize_nricp: False
+nricp_result_path: "./log/room1_20250918_r0_v0_nricp.ply"
+cost_time_path: "./log/room1_20250918_r0_v0_nricp_time.txt"
