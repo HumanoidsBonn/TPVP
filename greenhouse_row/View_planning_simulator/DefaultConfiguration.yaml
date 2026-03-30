@@ -40,7 +40,7 @@ use_saved_cloud: 1
 is_save: 0
 evaluate_one_shot: 1
 show: 0
-debug: 1
+debug: 0
 move_wait : 0
 octomap_resolution: 0.00625
 p_unknown_upper_bound: 0.65
